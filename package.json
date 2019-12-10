@@ -1,0 +1,29 @@
+{
+  "name": "basics",
+  "version": "1.0.0",
+  "description": "This is nodejs basics to help me learn",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teek-tech/nodejs-basics.git"
+  },
+  "keywords": [
+    "nodejs-basics"
+  ],
+  "author": "Tochukwu Odeme",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teek-tech/nodejs-basics/issues"
+  },
+  "homepage": "https://github.com/teek-tech/nodejs-basics#readme",
+  "dependencies": {
+    "uuid": "^3.3.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.1"
+  }
+}
